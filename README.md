@@ -1,5 +1,7 @@
 # Dough Divine Pizza App
 
+The Application is live on : [https://](https://dough-divine-pizza-app.onrender.com/)
+
 ![Dough Divine Pizza App](https://github.com/WhiteShadow11z1/Dough-Divine/raw/main/client/public/logo.png)
 
 The **Dough Divine Pizza App** is a web application built using the MERN (MongoDB, Express, React, Node.js) stack. It provides users with a platform to customize and order pizzas with various bases, toppings, and cheese options. Additionally, the app includes an admin inventory system that facilitates managing stock levels, low-stock notifications via email, and restocking options for individual items.
